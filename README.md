@@ -1,5 +1,36 @@
 # Foodie-Flow-app
+# Overview:
+Foodie Flow is a full-stack, responsive, and user-friendly food ordering web application designed to provide a smooth and intuitive experience for users.
 
+Features
+
+User authentication with Login/Signup pages
+
+Add-to-cart functionality with Context API for state management
+
+Interactive food cards displaying food image, price, and dynamic quantity updates using useState hook
+
+Responsive and clean UI for both desktop and mobile users
+
+Tech Stack
+
+Frontend: React.js, HTML, CSS, JavaScript, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+My Role
+
+I worked extensively on the frontend development using React.js.
+
+Built the Login and Signup pages for user authentication
+
+Implemented Add-to-Cart functionality using Context API
+
+Designed Food Cards displaying images, automatic price calculation, and quantity management with the useState hook
+
+Focused on creating a responsive and user-friendly interfac
 # Getting Started with Create React App
 ## Available Scripts
 
